@@ -1,0 +1,5 @@
+
+`ChatGPT 4o Mini - 2025-03-21`
+> I have the following dataset of locations in the world with data centers, and their associated Gigawatt of power usage.  I need it converted to a GeoJSON with the lat/lon of the location added to the dataset along with the country code.
+> _provide the .hack data_
+

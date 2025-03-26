@@ -1,0 +1,2 @@
+git clone git@github.com:datasets/geo-countries.git
+ogr2ogr -f GeoJSON -t_srs EPSG:5936 geo-countries_5936.geojson geo-countries/data/countries.geojson 

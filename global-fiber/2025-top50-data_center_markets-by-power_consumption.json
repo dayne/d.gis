@@ -1,0 +1,605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portland",
+        "usage_gw": 382,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6784, 45.5152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle",
+        "usage_gw": 105,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3321, 47.6062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silicon Valley",
+        "usage_gw": 615,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8863, 37.3382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles",
+        "usage_gw": 206,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2437, 34.0522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Vegas",
+        "usage_gw": 173,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.1398, 36.1699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix",
+        "usage_gw": 615,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0740, 33.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salt Lake City",
+        "usage_gw": 203,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8910, 40.7608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denver",
+        "usage_gw": 78,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.9903, 39.7392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dallas",
+        "usage_gw": 654,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7970, 32.7767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago",
+        "usage_gw": 555,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus",
+        "usage_gw": 41,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.9988, 39.9612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Virginia",
+        "usage_gw": 2552,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4874, 39.0438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston",
+        "usage_gw": 95,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0589, 42.3601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "usage_gw": 392,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta",
+        "usage_gw": 360,
+        "country_code": "US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3880, 33.7490]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto",
+        "usage_gw": 267,
+        "country_code": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3832, 43.6532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal",
+        "usage_gw": 127,
+        "country_code": "CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5673, 45.5017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queretaro",
+        "usage_gw": 150,
+        "country_code": "MX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.3899, 20.5888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reykjavik",
+        "usage_gw": 88,
+        "country_code": "IS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-21.9426, 64.1466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin",
+        "usage_gw": 304,
+        "country_code": "IE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603, 53.3498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London",
+        "usage_gw": 1053,
+        "country_code": "GB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1278, 51.5074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris",
+        "usage_gw": 391,
+        "country_code": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid",
+        "usage_gw": 120,
+        "country_code": "ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marseille",
+        "usage_gw": 50,
+        "country_code": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3698, 43.2965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam",
+        "usage_gw": 531,
+        "country_code": "NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9041, 52.3676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurt",
+        "usage_gw": 864,
+        "country_code": "DE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6821, 50.1109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zurich",
+        "usage_gw": 111,
+        "country_code": "CH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5417, 47.3769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milan",
+        "usage_gw": 111,
+        "country_code": "IT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1900, 45.4642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Munich",
+        "usage_gw": 67,
+        "country_code": "DE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5820, 48.1351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warsaw",
+        "usage_gw": 86,
+        "country_code": "PL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.0122, 52.2297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin",
+        "usage_gw": 60,
+        "country_code": "DE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050, 52.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stockholm",
+        "usage_gw": 74,
+        "country_code": "SE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.0686, 59.3293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oslo",
+        "usage_gw": 48,
+        "country_code": "NO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.7522, 59.9139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Paulo",
+        "usage_gw": 122,
+        "country_code": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.6333, -23.5505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago",
+        "usage_gw": 61,
+        "country_code": "CL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6693, -33.4489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannesburg",
+        "usage_gw": 161,
+        "country_code": "ZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0473, -26.2041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai",
+        "usage_gw": 380,
+        "country_code": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi",
+        "usage_gw": 110,
+        "country_code": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chennai",
+        "usage_gw": 57,
+        "country_code": "IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.2707, 13.0827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuala Lumpur",
+        "usage_gw": 87,
+        "country_code": "MY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.6869, 3.1390]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong",
+        "usage_gw": 417,
+        "country_code": "HK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1694, 22.3193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore",
+        "usage_gw": 876,
+        "country_code": "SG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta",
+        "usage_gw": 144,
+        "country_code": "ID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.8456, -6.2088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing",
+        "usage_gw": 1799,
+        "country_code": "CN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai",
+        "usage_gw": 725,
+        "country_code": "CN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoul",
+        "usage_gw": 330,
+        "country_code": "KR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.9780, 37.5665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osaka",
+        "usage_gw": 241,
+        "country_code": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.5023, 34.6937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo",
+        "usage_gw": 865,
+        "country_code": "JP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6917, 35.6895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melbourne",
+        "usage_gw": 149,
+        "country_code": "AU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9631, -37.8136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney",
+        "usage_gw": 667,
+        "country_code": "AU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2093, -33.8688]
+      }
+    }
+  ]
+}
